@@ -11,6 +11,7 @@ const JSX = (
       Several news sources have reported Coyne is an Atlanta native. 
       According to his Linkedin profile, he graduated from Alan C. 
       Pope High School in East Cobb. He also graduated fro </p>
+      <h3>Done</h3>
   </div>
 
 );
